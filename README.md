@@ -1,6 +1,6 @@
 Hi, everyone!  
 My name is Vladislav Kozlovski!  
-I'm a frontend developer from Belarus, Minsk ⚪🔴⚪.  
+I'm a frontend developer from Belarus, Minsk .  
 
 👌 I have experience in creating SPA(React+Redux).  
 📌 I’m open to work.  
